@@ -1,0 +1,12 @@
+b4f2812e749472eb9f5d03a7b15e1839 *DESCRIPTION
+a0ce291cd214260b4fe480b84b41a402 *NAMESPACE
+37e24ba026f5742ee87449362c126534 *R/mvgraphnorm-internal.R
+8cab26af9fcccef2e5170618eed739c3 *R/mvgraphnorm.R
+e429076e610518f7df5957463dd70e72 *build/vignette.rds
+a5230e50ded9a101c8b01c6944a1d6f1 *inst/doc/mvgraphnorm-intro.R
+17d69a97f1fee042228e240e1ccc1006 *inst/doc/mvgraphnorm-intro.Rnw
+bc540194d26ab0dc3f2c625b05b60dbe *inst/doc/mvgraphnorm-intro.pdf
+55e93b15b5e33860e69579bd74e1053c *man/mvgraphnorm.Rd
+a495ed474392c6eb6872511bab564747 *man/summary.mvnorm.c.net.Rd
+17d69a97f1fee042228e240e1ccc1006 *vignettes/mvgraphnorm-intro.Rnw
+ef9c83e440abb3fc0b41e5e119bdad4a *vignettes/verbatim.sty
